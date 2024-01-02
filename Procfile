@@ -1,1 +1,1 @@
-web: gunicorn dire_wolf_design.wsgi --log-file -
+web: gunicorn dire_wolf_design.dire_wolf_design.wsgi --log-file -
